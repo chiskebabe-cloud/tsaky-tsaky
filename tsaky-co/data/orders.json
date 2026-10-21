@@ -1,0 +1,282 @@
+[
+  {
+    "orderId": "TS-1792438479946",
+    "createdAt": "2026-10-19T19:34:39.946Z",
+    "customer": "Rasonne",
+    "kind": "Sur place",
+    "table": "2",
+    "payment": "Espèces",
+    "items": [
+      {
+        "product": "Assiette de sambos",
+        "price": 8000,
+        "quantity": 1,
+        "note": ""
+      }
+    ],
+    "total": 8000,
+    "status": "annulée",
+    "updatedAt": "2026-10-20T08:49:35.199Z"
+  },
+  {
+    "orderId": "TS-1792518435651",
+    "createdAt": "2026-10-20T17:47:15.686Z",
+    "customer": "Rasoa",
+    "kind": "Sur place",
+    "table": "2",
+    "payment": "Espèces",
+    "items": [
+      {
+        "product": "Assiette de sambos",
+        "price": 8000,
+        "quantity": 1,
+        "note": ""
+      }
+    ],
+    "total": 8000,
+    "status": "terminée",
+    "updatedAt": "2026-10-20T17:50:25.566Z"
+  },
+  {
+    "orderId": "TS-1792518534040",
+    "createdAt": "2026-10-20T17:48:54.040Z",
+    "customer": "Abby",
+    "kind": "Sur place",
+    "table": "6",
+    "payment": "Espèces",
+    "items": [
+      {
+        "product": "Tsaky box",
+        "price": 40000,
+        "quantity": 1,
+        "note": ""
+      }
+    ],
+    "total": 40000,
+    "status": "terminée",
+    "updatedAt": "2026-10-20T17:50:41.176Z"
+  },
+  {
+    "orderId": "TS-1792518577341",
+    "createdAt": "2026-10-20T17:49:37.341Z",
+    "customer": "",
+    "kind": "Sur place",
+    "table": "3",
+    "payment": "Espèces",
+    "items": [
+      {
+        "product": "Misao au tsatsiou",
+        "price": 13000,
+        "quantity": 1,
+        "note": ""
+      }
+    ],
+    "total": 13000,
+    "status": "terminée",
+    "updatedAt": "2026-10-20T17:50:17.636Z"
+  },
+  {
+    "orderId": "TS-1792518676008",
+    "createdAt": "2026-10-20T17:51:16.008Z",
+    "customer": "",
+    "kind": "Sur place",
+    "table": "",
+    "payment": "Espèces",
+    "items": [
+      {
+        "product": "Demi poulet laqué",
+        "price": 8000,
+        "quantity": 2,
+        "note": ""
+      }
+    ],
+    "total": 16000,
+    "status": "reçue"
+  },
+  {
+    "orderId": "TS-1792518736867",
+    "createdAt": "2026-10-20T17:52:16.867Z",
+    "customer": "",
+    "kind": "Sur place",
+    "table": "",
+    "payment": "Espèces",
+    "items": [
+      {
+        "product": "Assiette de sambos",
+        "price": 8000,
+        "quantity": 1,
+        "note": ""
+      }
+    ],
+    "total": 8000,
+    "status": "reçue"
+  },
+  {
+    "orderId": "TS-1792518803833",
+    "createdAt": "2026-10-20T17:53:23.833Z",
+    "customer": "Lalaina",
+    "kind": "Sur place",
+    "table": "",
+    "payment": "Espèces",
+    "items": [
+      {
+        "product": "Pizza carnivore",
+        "price": 22000,
+        "quantity": 1,
+        "note": ""
+      }
+    ],
+    "total": 22000,
+    "status": "reçue"
+  },
+  {
+    "orderId": "TS-1792518873860",
+    "createdAt": "2026-10-20T17:54:33.860Z",
+    "customer": "Gaya",
+    "kind": "Sur place",
+    "table": "6",
+    "payment": "Espèces",
+    "items": [
+      {
+        "product": "Poulet crispy",
+        "price": 15000,
+        "quantity": 2,
+        "note": ""
+      }
+    ],
+    "total": 30000,
+    "status": "reçue"
+  },
+  {
+    "orderId": "TS-1792518909736",
+    "createdAt": "2026-10-20T17:55:09.736Z",
+    "customer": "",
+    "kind": "Sur place",
+    "table": "",
+    "payment": "Espèces",
+    "items": [
+      {
+        "product": "Poulet entier",
+        "price": 35000,
+        "quantity": 1,
+        "note": ""
+      }
+    ],
+    "total": 35000,
+    "status": "reçue"
+  },
+  {
+    "orderId": "TS-1792518970125",
+    "createdAt": "2026-10-20T17:56:10.125Z",
+    "customer": "",
+    "kind": "Sur place",
+    "table": "",
+    "payment": "Espèces",
+    "items": [
+      {
+        "product": "Assiette de brochette de zébu",
+        "price": 15000,
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "product": "Pizza charcuterie",
+        "price": 20000,
+        "quantity": 1,
+        "note": ""
+      }
+    ],
+    "total": 35000,
+    "status": "reçue"
+  },
+  {
+    "orderId": "TS-1792519055610",
+    "createdAt": "2026-10-20T17:57:35.610Z",
+    "customer": "",
+    "kind": "Sur place",
+    "table": "",
+    "payment": "Espèces",
+    "items": [
+      {
+        "product": "Pizza charcuterie",
+        "price": 20000,
+        "quantity": 1,
+        "note": ""
+      }
+    ],
+    "total": 20000,
+    "status": "reçue"
+  },
+  {
+    "orderId": "TS-1792519178594",
+    "createdAt": "2026-10-20T17:59:38.594Z",
+    "customer": "",
+    "kind": "Sur place",
+    "table": "",
+    "payment": "Espèces",
+    "items": [
+      {
+        "product": "Assiette de sambos",
+        "price": 8000,
+        "quantity": 1,
+        "note": ""
+      }
+    ],
+    "total": 8000,
+    "status": "reçue"
+  },
+  {
+    "orderId": "TS-1792519661900",
+    "createdAt": "2026-10-20T18:07:41.900Z",
+    "customer": "",
+    "kind": "Sur place",
+    "table": "",
+    "payment": "Orange Money",
+    "items": [
+      {
+        "product": "Assiette de brochette de zébu",
+        "price": 15000,
+        "quantity": 20,
+        "note": ""
+      },
+      {
+        "product": "Carnivore box",
+        "price": 50000,
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "product": "Pizza carnivore",
+        "price": 22000,
+        "quantity": 5,
+        "note": ""
+      }
+    ],
+    "total": 460000,
+    "status": "reçue"
+  },
+  {
+    "orderId": "TS-1792519830930",
+    "createdAt": "2026-10-20T18:10:30.930Z",
+    "customer": "",
+    "kind": "Sur place",
+    "table": "",
+    "payment": "Espèces",
+    "items": [
+      {
+        "product": "Assiette de sambos",
+        "price": 8000,
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "product": "Pizza carnivore",
+        "price": 22000,
+        "quantity": 5,
+        "note": ""
+      }
+    ],
+    "total": 118000,
+    "status": "reçue"
+  }
+]

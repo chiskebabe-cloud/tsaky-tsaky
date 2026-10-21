@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "name": "Assiette de sambos",
+    "category": "Assiettes",
+    "price": 8000,
+    "img": "https://images.unsplash.com/photo-1601050690597-df0568f70950?auto=format&fit=crop&w=700&q=80"
+  },
+  {
+    "id": 2,
+    "name": "Assiette de brochette de zébu",
+    "category": "Assiettes",
+    "price": 15000,
+    "img": "https://images.unsplash.com/photo-1529692236671-f1f6cf9683ba?auto=format&fit=crop&w=700&q=80"
+  },
+  {
+    "id": 3,
+    "name": "Tsaky box",
+    "category": "Box",
+    "price": 40000,
+    "img": "https://images.unsplash.com/photo-1547592180-85f173990554?auto=format&fit=crop&w=700&q=80"
+  },
+  {
+    "id": 4,
+    "name": "Carnivore box",
+    "category": "Box",
+    "price": 50000,
+    "img": "https://images.unsplash.com/photo-1544025162-d76694265947?auto=format&fit=crop&w=700&q=80"
+  },
+  {
+    "id": 5,
+    "name": "Misao au poulet",
+    "category": "Misao",
+    "price": 12000,
+    "img": "https://images.unsplash.com/photo-1585032226651-759b368d7246?auto=format&fit=crop&w=700&q=80"
+  },
+  {
+    "id": 6,
+    "name": "Misao au tsatsiou",
+    "category": "Misao",
+    "price": 13000,
+    "img": "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?auto=format&fit=crop&w=700&q=80"
+  },
+  {
+    "id": 7,
+    "name": "Poulet crispy",
+    "category": "Poulet",
+    "price": 15000,
+    "img": "https://images.unsplash.com/photo-1626082927389-6cd097cdc6ec?auto=format&fit=crop&w=700&q=80"
+  },
+  {
+    "id": 8,
+    "name": "Demi poulet laqué",
+    "category": "Poulet",
+    "price": 8000,
+    "img": "https://images.unsplash.com/photo-1532550907401-a500c9a57435?auto=format&fit=crop&w=700&q=80"
+  },
+  {
+    "id": 9,
+    "name": "Poulet entier",
+    "category": "Poulet",
+    "price": 35000,
+    "img": "https://images.unsplash.com/photo-1598103442097-8b74394b95c6?auto=format&fit=crop&w=700&q=80"
+  },
+  {
+    "id": 10,
+    "name": "Pizza charcuterie",
+    "category": "Pizzas",
+    "price": 20000,
+    "img": "https://images.unsplash.com/photo-1513104890138-7c749659a591?auto=format&fit=crop&w=700&q=80"
+  },
+  {
+    "id": 11,
+    "name": "Pizza carnivore",
+    "category": "Pizzas",
+    "price": 22000,
+    "img": "https://images.unsplash.com/photo-1571407970349-bc81e7e96d47?auto=format&fit=crop&w=700&q=80"
+  },
+  {
+    "id": 12,
+    "name": "Pakopako",
+    "category": "Snack",
+    "price": 1000,
+    "img": "https://images.unsplash.com/photo-1621939514649-280e2aa2f3a0?auto=format&fit=crop&w=700&q=80"
+  }
+]
